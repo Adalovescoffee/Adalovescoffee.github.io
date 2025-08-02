@@ -1,6 +1,6 @@
 @def website_title = " ada's website" 
 @def website_descr = " my personal blog" 
-@def website_url = ""
+@def website_url = "https://Adalovescoffee.github.io/"
 
 @def author = "adalovescoffee"
 
