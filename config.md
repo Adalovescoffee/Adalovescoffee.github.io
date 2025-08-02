@@ -6,6 +6,8 @@
 
 @def author = "adalovescoffee"
 
+@def prepath = "myWebsite"
+
 @def mintoclever = 2 
 
 @def ignore = ["node_modules/", "franklin", "franklin.pub"]
