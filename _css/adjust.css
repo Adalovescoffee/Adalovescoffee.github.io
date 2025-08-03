@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: none !important;
 }
 body {
-  background-image: url("../assets/lying down.jpg");
+  background-image: url("../assets/lyingdown.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
