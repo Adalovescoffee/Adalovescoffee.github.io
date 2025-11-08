@@ -8,3 +8,4 @@ tags = ["syntax", "code"]
 +++
 # Blogs 
 Here in the near future (hopefully) will be blogs about interesting stuff i learned! 
+For now you can read about what i'm learning this month [here](/shortterm/).
