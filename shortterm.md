@@ -5,10 +5,10 @@ title = "Short Term Goals"
 +++
 
 ~~~
-<iframe src="/assets/shortterm.pdf" 
+<iframe src="/_assets/shortterm.pdf" 
         style="width:100%; height:90vh; border:none;">
   <p>Your browser doesn't support iframes. 
-     <a href="/assets/shortterm.pdf">Download the PDF</a>.
+     <a href="/_assets/shortterm.pdf">Download the PDF</a>.
   </p>
 </iframe>
 ~~~
